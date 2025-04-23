@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Controle de Medicamentos</string>
+    <string name="btn_add_medicamento">Adicionar Medicamento</string>
+    <string name="hint_nome">Nome do medicamento</string>
+    <string name="hint_descricao">Descrição</string>
+    <string name="hint_horario">Horário (ex: 08:00)</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="label_consumido">Consumido</string>
+</resources>
